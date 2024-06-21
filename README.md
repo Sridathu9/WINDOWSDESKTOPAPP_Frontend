@@ -19,6 +19,8 @@ Optional: Modify the Backend URL: If you have a backend server running at a diff
 
 Debugging: If you encounter any issues, you can use Visual Studio's debugging features to troubleshoot and fix them.
 
+NOTE:YOU CAN SEE EXECUTION IN VIDEO ALSO..
+
 
 
 
